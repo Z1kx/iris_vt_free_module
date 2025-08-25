@@ -1,0 +1,14 @@
+LICENSE.txt
+README.md
+setup.py
+iris_vt_free_module/IrisVTConfig.py
+iris_vt_free_module/IrisVTInterface.py
+iris_vt_free_module/__init__.py
+iris_vt_free_module.egg-info/PKG-INFO
+iris_vt_free_module.egg-info/SOURCES.txt
+iris_vt_free_module.egg-info/dependency_links.txt
+iris_vt_free_module.egg-info/requires.txt
+iris_vt_free_module.egg-info/top_level.txt
+iris_vt_free_module/vt_handler/__init__.py
+iris_vt_free_module/vt_handler/vt_handler.py
+iris_vt_free_module/vt_handler/vt_helper.py
